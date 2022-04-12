@@ -1,7 +1,7 @@
 ;MedOS Kernel extention
 ;System Manager(krnlman.dll)
 
-call startedKernel
+call StartedKernel
 strinf:
 	;String used for checking hibernated PC or Shut-Down PC;
 	db	"MedOS kernel version R | Is loaded | medload->medoskrnl | Regular Compact Hybrid",0
