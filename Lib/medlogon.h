@@ -1,3 +1,3 @@
-pass = "Use system login recources"
-medstart = true
-login = pass
+pass = "Use system login recources";
+medstart = true;
+login = pass;
