@@ -1,0 +1,7 @@
+BOOTMGR
+   ^
+BOOTLOADER
+   ^
+KERNEL SHELL
+   ^     ^
+APPS   INTERFACE
